@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    background-color: black;
+    margin: 0px;
+}
+
+.top_text{
+    color:rgb(250, 83, 150);
+    border-bottom: 5px dotted white;
+    text-align: center;
+    padding: 3rem;
+    font-size: 2rem;
+}
+.left_text_top{
+color: white;
+font-weight:bold ;
+font-size: 2rem;
+margin-top: 6rem;
+}
+.small_text{
+    color: white;
+    font-weight:bold ;
+    font-size: 1rem;
+    margin-top: 4rem;
+}
+.card{
+    background-color:rgb(250, 83, 150);
+   
+}
+.head_text{
+    color: black;
+    color: white;
+    padding: 2rem;
+    background-color:rgb(250, 83, 150);
+    text-align: center;
+    font-size:20px;
+
+}
+.sub_text{
+    color: white;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color:rgb(250, 83, 150);
+}
+.sub_sub_text{
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    font-size:20px;
+    background-color:rgb(250, 83, 150);
+}
+.left_text{
+    color:rgb(250, 83, 150) ;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.right_text{
+    color:white;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 3rem;
+}
+.flex_content{
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+}
+.card_text  {
+    color: white;
+    background-color:rgb(246, 154, 190);
+    font-size: 4rem;
+    text-align: center;
+   
+}
+.sub_text_on{
+    color:white;
+    text-align: center;
+    font-size:20px;
+}
+.main_content{
+    color:white;
+    text-align: center;
+    font-size:30px;
+    padding: 2rem;
+   
+}
